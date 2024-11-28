@@ -1,7 +1,9 @@
 h1 {
-    color: lightskyblue;
+    color: blanchedalmond;
+    letter-spacing: -1px;
 }
 body {
     background-color: #000;
     font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
 }
